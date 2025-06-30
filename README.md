@@ -39,9 +39,9 @@
 
 ### 🌐 Ijtimoiy tarmoqlar:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourchannel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nasrullayev_Abdurauf/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com/yourchannel](https://youtube.com/@shok_faktlaruz?si=OGPh3kknIjPPu7CO))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourinstagram](https://www.instagram.com/abdurauf_._?igsh=cXN5YzExa3BlaXBl))
 
 ---
 
